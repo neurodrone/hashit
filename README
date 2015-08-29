@@ -1,3 +1,5 @@
+This is a github fork of http://freecode.com/projects/hashit/.
+
 Hashit - Another generic hash library ;))
 =========================================
 
@@ -22,7 +24,7 @@ from people that is going to use this library, about possible bugs and
 performance they obtain using hashit.
 
 
-David Gómez <david@pleyades.net>
+David GÃ³mez <david@pleyades.net>
 
 
 Hashit API Documentation
